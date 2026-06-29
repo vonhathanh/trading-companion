@@ -8,7 +8,7 @@ Entry, TP, SL
 
 Reasons why the order is created: market analysis, experiences, indicators
 
-Agent pull the candle stick data in 2 time frames & recent news then judge the order
+Agent pull the candle stick data in 2 time frames, trading history & recent news then judge the order
 
 Pros: ...
 
@@ -17,3 +17,5 @@ Cons: ...
 Pitfalls: ...
 
 Score: ...
+
+Bonus: Agent may create the order for us by calling Binance API
