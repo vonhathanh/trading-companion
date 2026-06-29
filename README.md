@@ -1,6 +1,7 @@
 # order-analysis
 A simple trading agent to judge my trading orders
 Flow: user send new order with the following format:
+
 Pair: X
 
 Entry, TP, SL
