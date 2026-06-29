@@ -1,11 +1,18 @@
 # order-analysis
 A simple trading agent to judge my trading orders
-Flow: user send new order with the following formar:
+Flow: user send new order with the following format:
 Pair: X
+
 Entry, TP, SL
+
 Reasons why the order is created: market analysis, experiences, indicators
+
 Agent pull the candle stick data in 2 time frames & recent news then judge the order
+
 Pros: ...
+
 Cons: ...
+
 Pitfalls: ...
+
 Score: ...
